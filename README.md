@@ -41,13 +41,13 @@ The goal is to generate data-driven insights to improve engineering productivity
 ## 📈 Sample Visuals
 
 ### Cycle Time by Priority
-![Cycle Time](images/cycle_time_priority.png)
+![Cycle Time](./images/cycle_time_priority.png)
 
 ### Team Performance
-![Team Performance](images/team_performance.png)
+![Team Performance](./images/team_performance.png)
 
 ### Distribution Analysis
-![Distribution](images/cycle_time_boxplot.png)
+![Distribution](./images/cycle_time_boxplot.png)
 
 ---
 
